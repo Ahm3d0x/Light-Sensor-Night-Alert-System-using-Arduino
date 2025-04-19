@@ -70,7 +70,7 @@ The system operates based on the surrounding light intensity:
 - 👨‍🎓 **Name**: Ahmed Mohamed Atiya  
 - 🏫 **University**: Zagazig University – Faculty of Engineering – Communications Department  
 - 📧 **Email**: ah2005211@gmail.com  
-- 🌍 **GitHub**: [github.com/ahmedatya](https://github.com/ahmedatya) *(Update with your actual username)*
+- 🌍 **GitHub**: [github.com/ahmedatya]((https://github.com/Ahm3d0x)) *(Update with your actual username)*
 
 ---
 
