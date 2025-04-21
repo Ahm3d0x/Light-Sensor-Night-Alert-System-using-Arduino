@@ -42,7 +42,10 @@ The system operates based on the surrounding light intensity:
 - Light level is mapped from analog value to a percentage between 0% and 100%.
 
 ---
+## 🖼️ Circuit Diagram
 
+![Light Sensor Circuit](https://github.com/Ahm3d0x/Light-Sensor-Night-Alert-System-using-Arduino/blob/main/Light%20Sensor%20%26%20Night%20Alert%20System%20using%20Arduino_bb.png?raw=true)
+--
 ## 💡 Code Features
 
 - Efficient use of **arrays** and **for loops** to reduce redundancy.
@@ -83,9 +86,10 @@ The system operates based on the surrounding light intensity:
 
 ---
 
-## 📸 Project Images
+## 📸 Project video
 
-*Add real photos of your setup here if available.*
+
+![Light Sensor Circuit]([https://github.com/Ahm3d0x/Light-Sensor-Night-Alert-System-using-Arduino/blob/main/Light%20Sensor%20%26%20Night%20Alert%20System%20using%20Arduino_bb.png?raw=true](https://www.linkedin.com/feed/update/urn:li:activity:7320188306342727680/))
 
 ---
 
