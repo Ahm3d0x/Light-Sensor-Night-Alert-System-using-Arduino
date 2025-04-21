@@ -20,7 +20,7 @@ The system operates based on the surrounding light intensity:
 |----------------|----------|-------------------------------|
 | Arduino UNO     | 1        | Or any compatible board       |
 | LDR Sensor      | 1        | Light sensor                  |
-| 40K Resistor    | 1        | Used with the LDR             |
+| 140K Resistor    | 1        | Used with the LDR             |
 | LEDs            | 6        | 5 for warning, 1 green for light |
 | Buzzer          | 1        | For night alert               |
 | Jumper Wires    | Several  | For connections               |
